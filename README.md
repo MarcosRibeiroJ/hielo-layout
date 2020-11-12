@@ -1,2 +1,2 @@
-# hielo-layout
-This template does not created by me, the original project is in the link below. I'm recreating this layout just for practice.  Original: https://templated.co/hielo
+# Hielo Template
+This template was not created by me, i'll leave the link of the original source below. I recreated this layout just for training.  Original: https://templated.co/hielo
